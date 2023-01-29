@@ -1,0 +1,4 @@
+#ROLL A DICE IN SUCH A WAY THAT EVERY TIME YOU GET SAME NUMBER WHERE DICE HAS 6 NUMBERS ENTER THE NUMBER FROM 1 TO 6.
+import random
+random.seed(6)
+print(random.randint(1,6))
